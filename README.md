@@ -30,7 +30,7 @@
 ## Skills 🛠️
 
 - Programming Languages: 
-  - [Python](https://img.shields.io/badge/Python-3.8-blue) 
+  - Python ![Python](https://img.shields.io/badge/Python-3.8-blue) 
   - Java ![Java](https://img.shields.io/badge/Java-8-orange)
   - C++ ![C++](https://img.shields.io/badge/C++-14-green)
   - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)

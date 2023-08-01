@@ -29,13 +29,33 @@
 
 ## Skills 🛠️
 
-- Programming Languages: Python, Java, C++
-- Machine Learning: TensorFlow, Keras, scikit-learn
-- Natural Language Processing: NLTK, spaCy
-- Deep Learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
-- Data Visualization: Matplotlib, Seaborn
-- Version Control: Git, GitHub
+- Programming Languages: 
+  - Python ![Python](https://img.shields.io/badge/Python-3.8-blue) 
+  - Java ![Java](https://img.shields.io/badge/Java-8-orange)
+  - C++ ![C++](https://img.shields.io/badge/C++-14-green)
+  - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+  - Node.js ![Node.js](https://img.shields.io/badge/Node.js-12-green)
 
+- Machine Learning: 
+  - TensorFlow ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5-orange)
+  - Keras ![Keras](https://img.shields.io/badge/Keras-2.4-red)
+  - scikit-learn ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-purple)
+
+- Natural Language Processing: 
+  - NLTK ![NLTK](https://img.shields.io/badge/NLTK-3.6-blueviolet)
+  - spaCy ![spaCy](https://img.shields.io/badge/spaCy-3.1-green)
+
+- Deep Learning: 
+  - Convolutional Neural Networks (CNNs) ![CNN](https://img.shields.io/badge/CNNs-✔-informational)
+  - Recurrent Neural Networks (RNNs) ![RNN](https://img.shields.io/badge/RNNs-✔-informational)
+
+- Data Visualization: 
+  - Matplotlib ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4-blue)
+  - Seaborn ![Seaborn](https://img.shields.io/badge/Seaborn-0.11-orange)
+
+- Version Control: 
+  - Git ![Git](https://img.shields.io/badge/Git-2.32-red)
+  - GitHub ![GitHub](https://img.shields.io/badge/GitHub-✔-informational)
 ## Interests 🌍
 
 I am constantly exploring new advancements in the field of AI and staying up-to-date with the latest research papers and technologies. Some of my current interests include:

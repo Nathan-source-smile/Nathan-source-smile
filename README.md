@@ -10,23 +10,6 @@
   Welcome to my GitHub profile! I am an AI Project Engineer with a passion for developing innovative solutions using artificial intelligence and machine learning. This README provides an overview of my projects, skills, and interests in the field of AI.
 </p>
 
-## Projects 📚
-
-### Project 1: Sentiment Analysis using Natural Language Processing 📊
-- Description: Developed a sentiment analysis model using NLP techniques to classify text data into positive, negative, or neutral sentiments.
-- Technologies: Python, TensorFlow, NLTK, scikit-learn
-- Repository: [Sentiment Analysis](https://github.com/nathan/sentiment-analysis)
-
-### Project 2: Image Classification using Convolutional Neural Networks 🖼️
-- Description: Built a deep learning model using CNNs to classify images into different categories.
-- Technologies: Python, TensorFlow, Keras, OpenCV
-- Repository: [Image Classification](https://github.com/nathan/image-classification)
-
-### Project 3: Chatbot using Sequence-to-Sequence Models 💬
-- Description: Created a chatbot using sequence-to-sequence models to generate responses based on user input.
-- Technologies: Python, TensorFlow, Keras, NLTK
-- Repository: [Chatbot](https://github.com/nathan/chatbot)
-
 ## Skills 🛠️
 
 - Programming Languages: 

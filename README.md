@@ -39,6 +39,11 @@
 - Version Control: 
   - Git ![Git](https://img.shields.io/badge/Git-2.32-red)
   - GitHub ![GitHub](https://img.shields.io/badge/GitHub-✔-informational)
+
+Technologies I Use
+
+<img src="https://skillicons.dev/icons?i=angular,react,vue,wordpress,redux,next,rxjs,graphql,nodejs,express,nest,laravel,py,django,flask,ruby,rails,dotnet,java,spring,cs,dotnet,flutter,prisma,mysql,postgresql,mongodb,redis,dynamodb,git,github,gitlab,jenkins,docker,kubernetes,aws,azure,gcp,ai,pytorch,tensorflow,mui,tailwindcss,bootstrap,swift,flutter,chatgpt&perline=14" alt="Technologies" width="100%"/>
+
 ## Interests 🌍
 
 I am constantly exploring new advancements in the field of AI and staying up-to-date with the latest research papers and technologies. Some of my current interests include:
@@ -46,6 +51,10 @@ I am constantly exploring new advancements in the field of AI and staying up-to-
 - Generative Adversarial Networks (GANs) 🎨
 - Explainable AI 🧠
 - AI Ethics 🤖
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edwin-jackson&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-jackson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact 📞
 

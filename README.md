@@ -1,4 +1,4 @@
-<h1 align="center">AI Project Engineer 🚀</h1>
+<h1 align="center">WEB|Mobile|AI Project Engineer 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8-blue" alt="Python Version">
